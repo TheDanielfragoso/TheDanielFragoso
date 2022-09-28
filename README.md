@@ -1,7 +1,7 @@
 ### Olá,Mundo! Eu sou o Daniel Fragoso 👋
 
-- 🌱 Estudando JS/CSS e HTML 
-- 📫 Contate-me pelo email- adfigui@gmail.com 
+- 🌱 Estudando HTML/CSS e JS
+- 📫 Contate-me pelo email- dlmf.profissional@gmail.com 
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
